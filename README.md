@@ -29,11 +29,8 @@ Smart Health Monitoring System is a real-time web application made using ReactJS
 ![Monitoring Dashboard](./assets/SHMS_Dashboard_Online.png)
 *Figure 2: Monitoring Dashboard*
 
-![IoT Device Setup](./assets/SHMS_IoT_Device_Setup.png)
-*Figure 3: IoT Device Setup*
-
 ![Server PM2 Overview](./assets/SHMS_Server_PM2_Overview.png)
-*Figure 4: Server PM2 Overview*
+*Figure 3: Server PM2 Overview*
 
 ## Installation & Testing
 
